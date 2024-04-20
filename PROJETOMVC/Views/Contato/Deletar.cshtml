@@ -1,0 +1,38 @@
+@model PROJETOMVC.Models.Contato
+
+@{
+    ViewData["Title"] = "Deletar contato";
+}
+
+<h1 style="color: red;">Deseja realmente apagar esse contato, essa operação é irreverssível?</h1>
+
+<hr/>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Nome)
+        </dt>
+        <dt class="coll-sm-10">
+            @Html.DisplayNameFor(x => x.Nome)
+        </dt>
+            <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Telefone)
+        </dt>
+        <dt class="coll-sm-10">
+            @Html.DisplayNameFor(x => x.Telefone)
+        </dt>    <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Ativo)
+        </dt>
+        <dt class="coll-sm-10">
+            @Html.DisplayNameFor(x => x.Ativo)
+        </dt>
+
+    </dl>
+</div>
+<form asp-action="Deletar">
+    <input type="sumit" value="Deletar" class="btn btn-danger"/>
+</form>
+
+<br/>
+<a asp-action="Index">Voltar</a>
