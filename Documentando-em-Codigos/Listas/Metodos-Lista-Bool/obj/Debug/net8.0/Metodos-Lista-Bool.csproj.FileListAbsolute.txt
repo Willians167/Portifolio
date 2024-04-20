@@ -1,0 +1,15 @@
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\bin\Debug\net8.0\Metodos-Lista-Bool.exe
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\bin\Debug\net8.0\Metodos-Lista-Bool.deps.json
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\bin\Debug\net8.0\Metodos-Lista-Bool.runtimeconfig.json
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\bin\Debug\net8.0\Metodos-Lista-Bool.dll
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\bin\Debug\net8.0\Metodos-Lista-Bool.pdb
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.AssemblyInfoInputs.cache
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.AssemblyInfo.cs
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.csproj.CoreCompileInputs.cache
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.sourcelink.json
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.dll
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\refint\Metodos-Lista-Bool.dll
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.pdb
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\Metodos-Lista-Bool.genruntimeconfig.cache
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-Bool\obj\Debug\net8.0\ref\Metodos-Lista-Bool.dll
