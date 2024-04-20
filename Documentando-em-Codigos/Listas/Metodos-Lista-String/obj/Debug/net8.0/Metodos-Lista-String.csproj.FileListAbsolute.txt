@@ -1,0 +1,15 @@
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\bin\Debug\net8.0\Metodos-Lista-String.exe
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\bin\Debug\net8.0\Metodos-Lista-String.deps.json
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\bin\Debug\net8.0\Metodos-Lista-String.runtimeconfig.json
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\bin\Debug\net8.0\Metodos-Lista-String.dll
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\bin\Debug\net8.0\Metodos-Lista-String.pdb
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.AssemblyInfoInputs.cache
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.AssemblyInfo.cs
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.csproj.CoreCompileInputs.cache
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.sourcelink.json
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.dll
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\refint\Metodos-Lista-String.dll
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.pdb
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\Metodos-Lista-String.genruntimeconfig.cache
+A:\Projetos\Portifolio\Documentando-em-Codigos\Listas\Metodos-Lista-String\obj\Debug\net8.0\ref\Metodos-Lista-String.dll
