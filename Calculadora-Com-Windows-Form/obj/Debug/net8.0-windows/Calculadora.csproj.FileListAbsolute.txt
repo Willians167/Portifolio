@@ -1,0 +1,16 @@
+D:\Sketch_MInd\Windows-Forms\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+D:\Sketch_MInd\Windows-Forms\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+D:\Sketch_MInd\Windows-Forms\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+D:\Sketch_MInd\Windows-Forms\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+D:\Sketch_MInd\Windows-Forms\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+D:\Sketch_MInd\Windows-Forms\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
