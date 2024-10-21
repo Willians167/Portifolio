@@ -1,13 +1,12 @@
 # 🌟 Bem-vindo ao Portfólio! 🚀
 
-Bom, ela ainda está em construção , mas vamos lá...
+Bom, ele ainda está em construção , mas vamos lá...
 
 ## 👋 Sobre Mim
-Olá! Eu sou o **Willians Costa Paulino**, um desenvolvedor apaixonado por **.NET** e com um grande amor por **Java**! 🎉 Embora o .NET seja meu foco principal, eu não resisto a mergulhar em projetos em **Java** sempre que posso. Estou sempre aprendendo, explorando novas tecnologias e transformando ideias em realidade! 🚀
+Olá! Eu sou o **Willians Costa Paulino**, um desenvolvedor apaixonado por **.NET** e com um grande amor por **Java**! 🎉 Embora o .NET, estou sempre aprendendo, explorando novas tecnologias e transformando ideias em realidade! 🚀
 
 🛠️ **Tecnologias que domino**
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) 
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=for-the-badge)
 - ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
@@ -17,12 +16,12 @@ Olá! Eu sou o **Willians Costa Paulino**, um desenvolvedor apaixonado por **.NE
 ## 📈 Painel de Controle
 Aqui está um resumo de alguns dados legais dos meus projetos no GitHub:
 
-| 💻 Tecnologia | 📂 Projetos | 🔥 Estrelas | 🍴 Forks | 🚀 Última Atualização |
-|---------------|-------------|------------|---------|----------------------|
-| .NET          | 5           | ⭐⭐⭐⭐      | 🍴🍴🍴   | 1 semana atrás        |
-| Java          | 3           | ⭐⭐⭐⭐      | 🍴🍴     | 2 dias atrás          |
-| MySQL         | 2           | ⭐⭐⭐       | 🍴🍴     | 3 semanas atrás       |
-| SQL Server    | 1           | ⭐⭐⭐       | 🍴       | 1 mês atrás           |
+| 💻 Tecnologia | 📂 Projetos | 🔥 Estrelas |
+|---------------|-------------|--------------|
+| .NET          | 5           | ⭐⭐⭐⭐⭐|      
+| SQL Server    | 4           | ⭐⭐⭐⭐   |      
+| MySQL         | 3           | ⭐⭐⭐     |     
+| Docker        | 3           | ⭐⭐⭐     |     
 
 ## 🚀 Projetos de Destaque
 Aqui estão alguns dos projetos dos quais me orgulho:
